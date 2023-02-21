@@ -267,4 +267,5 @@ plt.show()
 ```
 
 * 실행결과
-<img src="~@source/output.png" />
+![Img](./pangda-crawler/Lotto_Crawler/output.png)
+
