@@ -267,4 +267,4 @@ plt.show()
 ```
 
 * 실행결과
-![Result](~@source/.output.png)
+<img src="~@source/.output.png" />
