@@ -269,3 +269,9 @@ plt.show()
 * 실행결과
 ![Img](./output.png)
 
+
+
+## 참고 
+* https://teddylee777.github.io/python/lotto/
+* KT AIVLE School 3rd - 웹 크롤러 
+
